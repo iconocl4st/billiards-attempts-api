@@ -5,7 +5,7 @@
 #ifndef IDEA_ATTEMPTSMANAGER_H
 #define IDEA_ATTEMPTSMANAGER_H
 
-#include "common/attempts/ShotAttempt.h"
+#include "billiards_common/attempts/ShotAttempt.h"
 
 namespace billiards::attempts {
 	class AttemptsManager {
