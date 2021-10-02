@@ -6,7 +6,7 @@
 #include "billiards_common/utils/crow_common.h"
 #include "billiards_common/config/ports.h"
 
-#include "Configuration.h"
+#include "AttemptsManager.h"
 
 
 int main(int argc, char **argv) {
